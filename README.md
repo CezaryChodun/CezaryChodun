@@ -1,16 +1,31 @@
-## Hi there 👋
+  GNU nano 9.0                                                                     README.md                                                                               
+# Hi, I'm Cezary 👋
 
-<!--
-**CezaryChodun/CezaryChodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 6+ years of experience building high-performance backend systems. I've worked at **Google**, **Samsara**, **CastAI**, and **RedStone** — acr>
 
-Here are some ideas to get you started:
+I'm a generalist who contributes across the full development lifecycle: from design and implementation to rollout and monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+`Go` `Java` `TypeScript` `SQL / NoSQL` `Terraform` `Kubernetes` `AWS` `CI/CD` `Databricks`
+
+## 🏢 Experience
+
+| Company | Role | Period |
+|---|---|---|
+| CastAI | Senior Software Engineer (Go) | 2026 |
+| RedStone | Software Engineer | 2025 |
+| Samsara | Software Engineer II (Go) | 2024 |
+| Google | Software Engineer | 2022 – 2023 |
+| Avenga & Flairstech | Contractor - Software Engineer | 2021 – 2022 |
+| Syncron | Java Developer | 2020 – 2021 |
+
+## 🏆 Highlights
+
+- Finalist — **Polish Olympiad in Informatics** (top 50 in Poland)
+- Quarterfinalist — **Google Code Jam 2018** (top 10% worldwide)
+- **Cambridge English C1** certified
+
+## 📬 Contact
+
+[cezary@chodun.dev](mailto:cezary@chodun.dev) · [linkedin.com/in/cchodun](https://linkedin.com/in/cchodun) · [github.com/CesarChodun](https://github.com/CesarChodun)
