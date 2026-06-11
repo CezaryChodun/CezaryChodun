@@ -26,6 +26,10 @@ I'm a generalist who contributes across the full development lifecycle: from des
 - Quarterfinalist — **Google Code Jam 2018** (top 10% worldwide)
 - **Cambridge English C1** certified
 
+## 💻 Hobbies
+
+I hobbistically do **competitive programming** on [LeetCode](https://leetcode.com) and [Codeforces](https://codeforces.com).
+
 ## 📬 Contact
 
 [cezary@chodun.dev](mailto:cezary@chodun.dev) · [linkedin.com/in/cchodun](https://linkedin.com/in/cchodun) · [github.com/CesarChodun](https://github.com/CesarChodun)
