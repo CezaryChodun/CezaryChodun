@@ -1,7 +1,7 @@
   GNU nano 9.0                                                                     README.md                                                                               
 # Hi, I'm Cezary 👋
 
-Senior Software Engineer with 6+ years of experience building high-performance backend systems. I've worked at **Google**, **Samsara**, **CastAI**, and **RedStone** — acr>
+Senior Software Engineer with 6+ years of experience building high-performance backend systems. I've worked at **Google**, **Samsara**, **CastAI**, and **RedStone**.
 
 I'm a generalist who contributes across the full development lifecycle: from design and implementation to rollout and monitoring.
 
