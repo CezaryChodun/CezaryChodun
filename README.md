@@ -28,7 +28,7 @@ I'm a generalist who contributes across the full development lifecycle: from des
 
 ## 💻 Hobbies
 
-I hobbistically do **competitive programming** on [LeetCode](https://leetcode.com) and [Codeforces](https://codeforces.com).
+I hobbistically do **competitive programming** on [LeetCode](https://leetcode.com/u/CesarChodun/) and [Codeforces](https://codeforces.com/profile/CaesarCCH).
 
 ## 📬 Contact
 
